@@ -1,3 +1,4 @@
+DELETE FROM student;
 INSERT INTO student VALUES (1, 'James', 'Carter');
 INSERT INTO student VALUES (2, 'Helen', 'Leary');
 INSERT INTO student VALUES (3, 'Linda', 'Douglas');
